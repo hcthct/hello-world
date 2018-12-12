@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+hi,I want to write some thought for coding.
